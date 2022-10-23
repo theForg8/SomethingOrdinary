@@ -27,7 +27,7 @@ http://cdn01.palki.tv/live/EkattorTV-M/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Bangla", Gaan Bangla
 http://cdn01.palki.tv/live/GaanBangla-M/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9p3lgmA.png" group-title="Bangla", Gazi TV HD
-https://bdiptv2.tk/live/hls/GaziTv/bdiptv-tk.m3u8
+http://xtream.efiberbd.net:8080/live/mkaua/stream/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="Bangla",RTV HD
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.png" group-title="Bangla",MY TV
