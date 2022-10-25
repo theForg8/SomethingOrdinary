@@ -99,25 +99,21 @@ http://45.125.220.129:81/play/a056
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/x2qwIpL.png",Sony HD
 http://tvs2.aynaott.com/SonyHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/FepIOFs.png",Sony Max HD
-http://45.125.220.129:81/play/a045
+https://tvs1.aynaott.com/MaxHD/index.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/KRjdRnV.png",Colors HD
-http://45.125.220.129:81/play/a04v
+https://tvs1.aynaott.com/ColorsHD/index.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.ibb.co/QYnncJ5/Sonysab.jpg",SONY SAB
-http://103.157.249.125:201/play/a039/index.m3u8
+https://tvs1.aynaott.com/SabHD/index.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.ibb.co/PN8tTpN/Star-Bharat.jpg",STAR BHARAT HD
-http://45.125.220.129:81/play/a05a
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.ibb.co/FK8G21f/Star-Gold-HD.jpg",STARGOLD
-http://45.125.220.129:81/play/a050
+http://144.217.70.181:9587/hin2/STARGOLD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.ibb.co/FK8G21f/Star-Gold-HD.jpg",STARGOLD 2
-http://45.125.220.129:81/play/a052
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.ibb.co/vB5TQMg/Star-Gold-Select.jpg",StarGold Select
-http://45.125.220.129:81/play/a052
+http://144.217.70.181:9587/hin2/STARGOLDHD2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.ibb.co/xJdDVJ0/Starplus-Uk.jpg",Star Plus 
 http://tvs1.aynaott.com/StarPlusHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.ibb.co/sthCWgw/Zee-Cinema-HD.jpg",ZEE CINEMA 
 http://tvs1.aynaott.com/ZeeCinemaHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.ibb.co/wBBrRjQ/ZeeTVHD.jpg",Zee TV HD
-http://45.125.220.129:81/play/a04u
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Hindi" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/bflixmovies.png",Bflix Movie
 https://idvd.multitvsolution.com/idvo/bixflixmovies.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Hindi" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/wowmovie.jpg",Wow Cinema
