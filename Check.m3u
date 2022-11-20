@@ -1309,15 +1309,15 @@ http://jio.shikaritv.tk/jio/live.php?c=Movies_OK&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="459" group-title="Movies" tvg-language="Malayalam" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png",Asianet Movies HD
 http://jio.shikaritv.tk/jio/live.php?c=Asianet_Movies_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="460" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png",Star Sports Select HD1
-http://jio.shikaritv.tk/jio/live.php?c=Star_Sports_Select_HD_1&q=1200&e=junk.m3u8
+http://15.1.1.10:8282/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="159" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_1.png",Star Sports 1
-http://jio.shikaritv.tk/jio/live.php?c=Star_Sports_HD_1&q=1200&e=junk.m3u8
+http://15.1.1.10:8282/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="160" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_2.png",Star Sports 2
-http://jio.shikaritv.tk/jio/live.php?c=Star_Sports_HD_2&q=1200&e=junk.m3u8
+http://15.1.1.10:8282/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="362" group-title="Sports" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_3.png",Star Sports Hindi 1
-http://jio.shikaritv.tk/jio/live.php?c=Star_Sports_3&q=1200&e=junk.m3u8
+http://15.1.1.10:8282/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="461" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png",Star Sports Select HD2
-http://jio.shikaritv.tk/jio/live.php?c=Star_Sports_Select_HD_2&q=1200&e=junk.m3u8
+http://172.16.128.2:8081/live/sky1009/chunks.m3u8
 #EXTINF:-1 tvg-id="1340" group-title="Kids" tvg-language="Malayalam" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Malayalam.png",Nick Malayalam
 http://jio.shikaritv.tk/jio/live.php?c=Nick_Malayalam&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="1341" group-title="Kids" tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png",Nick Bangla
