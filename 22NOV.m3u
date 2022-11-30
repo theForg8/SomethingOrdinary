@@ -249,11 +249,11 @@ http://tv2.efiberbd.net:8080/live/mkaua/stream/1.m3u8
 #EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-2
 http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
 #EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-3(ONLYMATCH)
-http://172.16.128.2:8081/live/sky1011/chunks.m3u8
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_850.m3u8
 #EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-4(ONLYMATCH)
-http://172.16.128.2:8081/live/sky2001/chunks.m3u8
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_850.m3u8
 #EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-5
-http://15.1.5.10:8082/1LIVE/tracks-v1a1/mono.m3u8
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/2405.ts
 
 ****KD****
 
