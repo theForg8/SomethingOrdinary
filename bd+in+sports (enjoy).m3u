@@ -223,6 +223,7 @@ http://103.159.4.38:8091/CH3A-SP3/index.m3u8
 http://103.159.4.38:8091/CH3C-SP3/index.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/ptvsports.jpg" group-title="Sports",PTV Sports
 http://103.159.4.38:8091/CH1-SP1/index.m3u8
+http://15.1.1.34:8082/PTV-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/adsports1.jpg" group-title="Sports",Ad Sports 1
 http://103.159.4.38:8091/CH4-SP4/index.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/adsports2.jpg" group-title="Sports",Ad Sports 2
