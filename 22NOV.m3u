@@ -214,7 +214,7 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
 *****SPRT*****
 
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/tsports.jpg" group-title="Sports",T Sports HD
-http://103.159.4.38:8091/CH2-SP2/index.m3u8
+http://103.143.235.50:8080/102/102.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/ten1hd.jpg" group-title="Sports",Sony Ten 1
 http://15.1.5.18:8082/ten1-hd/tracks-v1a1/mono.m3u8?
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/ten2hd.jpg" group-title="Sports",Sony Ten 2
