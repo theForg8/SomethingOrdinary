@@ -282,3 +282,83 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 https://tv-trtworld.live.trt.com.tr/master_480.m3u8
 #EXTINF:-1 tvg-logo="https://d1v80af1fj0ehx.cloudfront.net/wp-content/blogs.dir/1/files/2017/10/42.WORLD_square_15_TV-300x300.jpg" group-title="International",NHK World Japan
 https://b-nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459-b/nhkwlive-ojp/index_1M.m3u8
+
+
+******INTT******
+#EXTINF:-1 tvg-id="INSIGHT TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21GnRa4PI-L.png"  group-title="Extra(US)",INSIGHT TV (US)
+https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
+#EXTINF:-1 tvg-id="CINE LIFE" tvg-logo="https://a.jsrdn.com/hls/22933/cinelife/thumbh_20210226_000928.jpg"  group-title="Extra(US)",CINE LIFE (US)
+https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
+#EXTINF:-1 tvg-id="COMET" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Comet_logo.svg/1200px-Comet_logo.svg.png"  group-title="Extra(US)",COMET (US)
+https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
+#EXTINF:-1 tvg-id="CBSN" tvg-logo="https://crispincorp.com/wp-content/uploads/2018/02/CBSN-logo.png"  group-title="Extra(US)",CBSN (US)
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 tvg-id="LAW&CRIME" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51NbzXezlVL.png"  group-title="Extra(US)",LAW&CRIME (US)
+https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
+#EXTINF:-1 tvg-id="CON TV" tvg-logo="https://theme.zdassets.com/theme_assets/667658/dc4ec60cc6dc7bdd4180cd4d71bd478359fa00a3.png"  group-title="Extra(US)",CON TV (US)
+https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
+#EXTINF:-1 tvg-id="DOVE CHANNEL" tvg-logo="https://www.dovechannel.com/static/media/dove_logo.53946575.png"  group-title="Extra(US)",DOVE CHANNEL (US)
+https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
+#EXTINF:-1 tvg-id="POPSTAR! TV" tvg-logo="https://image.roku.com/developer_channels/prod/8c4f676e367ef2b797aab0177ca30ddba58c5aec327cc95377d07c4d87c076bd.png"  group-title="Extra(US)",POPSTAR! TV (US)
+https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8
+#EXTINF:-1 tvg-id="LIVE X LIVE" tvg-logo="https://www.livexlive.com/images/logos/lxl-logo-splash.png"  group-title="Extra(US)",LIVE X LIVE (US)
+https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
+#EXTINF:-1 tvg-id="TBD" tvg-logo="https://image.roku.com/developer_channels/prod/e575623dcddc5a0a30c6a9f0ec8b129069ca25bf3bc74a6c8d44d7bc0844d7cd.png"  group-title="Extra(US)",TBD (US)
+https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
+#EXTINF:-1 tvg-id="MOVIE FONE TV" tvg-logo="https://d2j1wkp1bavyfs.cloudfront.net/legacy/assets/made-in-hollywood-head-v2.jpg"  group-title="Extra(US)",MOVIE FONE TV (US)
+https://dai.google.com/linear/hls/event/Mteif75-SJeFi19Sk3-dGQ/master.m3u8
+#EXTINF:-1 tvg-id="MST3K" tvg-logo="https://i0.wp.com/mst3klive.com/wp-content/uploads/2021/06/timetravelmst3klogo-comp.png"  group-title="Extra(US)",MST3K (US)
+https://dai.google.com/linear/hls/event/rmBGeSwhQEG64TrT0_JO2A/master.m3u8
+#EXTINF:-1 tvg-id="THE FILM DETECTIVE" tvg-logo="https://static.wixstatic.com/media/2d47fc_b4717dec1ba147f6b29a115f4e72a5c9~mv2_d_2411_1447_s_2.png"   group-title="Extra(US)",THE FILM DETECTIVE (US)
+https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
+#EXTINF:-1 tvg-id="MAVTV" tvg-logo="https://www.mavtv.com/site/assets/images/mavtv-motorsports-network-1200x630.jpg"  group-title="Extra(US)",MAVTV (US)
+https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
+#EXTINF:-1 tvg-id="CBSN" tvg-logo="https://losangeles.cbslocal.com/wp-content/uploads/sites/14984641/2019/09/60h-LA-white-stacked.png"  group-title="Extra(US)",CBSN (US)
+http://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
+#EXTINF:-1 tvg-id="BUZZER" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/NewBUZZRLogo2021.png"  group-title="Extra(US)",BUZZER (US)
+https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
+#EXTINF:-1 tvg-id="OUTSIDE" tvg-logo="https://www.outsidetv.com/img/otv/hls_header.png"  group-title="Extra(US)",OUTSIDE (US)
+https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8
+#EXTINF:-1 tvg-id="CHARGE!" tvg-logo="https://watchcharge.s3.amazonaws.com/uploads/2020/03/Charge_White.png"  group-title="Extra(US)",CHARGE! (US)
+https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
+#EXTINF:-1 tvg-id="FUTURISM" tvg-logo="https://image.roku.com/developer_channels/prod/efb8164c71ded675f94d78d35365addd4410f601f0a7a72bff7bdc2e58725cdf.png"  group-title="Extra(US)",FUTURISM (US)
+https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
+#EXTINF:-1 tvg-id="PEOPLE" tvg-logo="https://image.roku.com/developer_channels/prod/a4e9c44a7164ad5e06bcd026aea372fdfe6c6aa6d636e9c82c32962668d5c08d.png"  group-title="Extra(US)",PEOPLE (US)
+https://dai.google.com/linear/hls/event/Fe9LYYCFR5Csif-I5dyMHg/master.m3u8
+#EXTINF:-1 tvg-id="WINK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/WINK-TV_logo_2017.png"  group-title="Extra(US)",WINK TV (US)
+https://dai.google.com/linear/hls/event/RDMOOz10SfKAEdQ_ovgcUA/master.m3u8
+#EXTINF:-1 tvg-id="SHOUT TV" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/d8/6a/6a/d86a6ab4-42a5-997f-4deb-20ca5a2aeb1f/App_Icon_-_Small-marketing.lsr/1024x1024bb.jpg"  group-title="Extra(US)",SHOUT TV (US)
+https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
+#EXTINF:-1 tvg-id="OUTDOOR AMERICA" tvg-logo="https://image.roku.com/developer_channels/prod/e1abd2e3ea0aa5fc1d5dcccc160706e65849465b0be9de655551bdf2d2333fdc.png"  group-title="Extra(US)",OUTDOOR AMERICA (US)
+https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
+#EXTINF:-1 tvg-id="THE BOB ROSS CHANNEL" tvg-logo="https://image.roku.com/developer_channels/prod/110b229663a135a0abf87413c41f22f1f12c8cef7c1fc752e4fb572d71476693.png"  group-title="Extra(US)",THE BOB ROSS CHANNEL (US)
+https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
+
+****-------****
+
+#EXTINF:-1 group-title="News" tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/gxnN9jX.png" ,Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",WBBJ
+https://dai.google.com/linear/hls/event/HZ3JdLVcQ463l3b1BLXmmQ/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",KITV
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c4067ddc-0e67-4928-b7ec-624481f721a6.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",WTWC
+https://content.uplynk.com/channel/aa92b664ac5941de81cd410803329da2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",Vice TV
+https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://i.imgur.com/1IU5HJ8.png" ,CNN
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-id="DWEnglish.de" tvg-name="DW" tvg-logo="https://i.imgur.com/sw4pLVT.png" ,DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="News" tvg-id="NHKWorldJapan.jp" tvg-name="NHK World Japan" tvg-logo="https://i.imgur.com/NVkSoOe.png" ,NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/ndtv247.png",NDTV (IN)
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1 group-title="News" tvg-id="ABCNewsLive.us" tvg-name="ABC News Live" tvg-logo="https://i.imgur.com/ZHNW9jc.png" ,ABC News Live
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 group-title="News" tvg-id="ANC.ph" tvg-name="ANC" tvg-logo="https://i.imgur.com/XzVYXaV.png" ,ANC
+https://ancglobal-abscbn-ono.amagi.tv/playlist360_p.m3u8
+#EXTINF:-1 group-title="News" tvg-id="CBSNews.us" tvg-name="CBS News" tvg-logo="https://i.imgur.com/TtzvhdV.png" ,CBS News
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 group-title="News" tvg-id="CGTN.cn" tvg-name="CGTN" tvg-logo="https://i.imgur.com/yd1C0VX.png" ,CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
