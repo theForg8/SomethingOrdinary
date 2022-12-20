@@ -238,18 +238,6 @@ http://15.1.1.10:8282/Adsports1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/adsports2.jpg" group-title="Sports",Ad Sports 2
 http://15.1.1.10:8282/Adsports2/tracks-v1a1/mono.m3u8
 
-*****FIF*****
-
-#EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-1
-http://103.127.93.82:8234/t_tv/tracks-v1a1/mono.m3u8?token=TheftTheftTheftTheftTheftTheftTheftTheft
-#EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-2
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_1000.m3u8
-#EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-3(ONLYMATCH)
-http://15.1.1.34:8282/TSPORTS-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-4(ONLYMATCH)
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_850.m3u8
-#EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-5
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/2405.ts
 
 ****KD****
 
