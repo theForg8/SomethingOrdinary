@@ -356,7 +356,7 @@ https://live.cgtn.com/1000/prog_index.m3u8
 
 ****-------****
 #EXTINF:-1 group-title="BPL" tvg-logo="",Live 1
-http://xtv.ooo:8080/Ijaaz123/aijaz321/245939
+http://cdn01.palki.tv/live/NagorikTV-M/tracks-v1a1/mono.m3u8?token=ad5bda4470c8e8cc002390141fb3e3f0
 #EXTINF:-1 group-title="BPL" tvg-logo="",Live 2
 http://xtv.ooo:8080/345529766/157811576/167568
 
